@@ -1,0 +1,12 @@
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\obj\Debug\WeHeMo.Web.UI.csprojResolveAssemblyReference.cache
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Web.UI.dll.config
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Web.UI.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Web.UI.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.DTO.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Service.Contract.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.DTO.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Service.Contract.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\obj\Debug\WeHeMo.Web.UI.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\obj\Debug\WeHeMo.Web.UI.pdb
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Business.dll
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Web.UI\bin\WeHeMo.Business.pdb

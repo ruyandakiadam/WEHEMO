@@ -1,0 +1,4 @@
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Consolo.Host\bin\Debug\WeHeMo.Consolo.Host.exe
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Consolo.Host\bin\Debug\WeHeMo.Consolo.Host.pdb
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Consolo.Host\obj\Debug\WeHeMo.Consolo.Host.exe
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Consolo.Host\obj\Debug\WeHeMo.Consolo.Host.pdb

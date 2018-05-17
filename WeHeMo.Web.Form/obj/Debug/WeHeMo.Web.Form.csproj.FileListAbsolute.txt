@@ -1,0 +1,31 @@
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\csc.exe
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\vbc.exe
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.Web.Form.dll.config
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.Web.Form.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.Web.Form.pdb
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\obj\Debug\WeHeMo.Web.Form.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\obj\Debug\WeHeMo.Web.Form.pdb
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.DTO.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.WCF.Conract.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.DTO.pdb
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.WCF.Conract.pdb
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\obj\Debug\WeHeMo.Web.Form.csprojResolveAssemblyReference.cache
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.WCF.Service.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.Business.dll
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.WCF.Service.pdb
+E:\Projects\Empatik\WeHeMo\WeHeMo\WeHeMo.Web.Form\bin\WeHeMo.Business.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.Form\obj\Debug\WeHeMo.Web.Form.csprojResolveAssemblyReference.cache
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.Form\obj\Debug\WeHeMo.Web.Form.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Web.Form\obj\Debug\WeHeMo.Web.Form.pdb

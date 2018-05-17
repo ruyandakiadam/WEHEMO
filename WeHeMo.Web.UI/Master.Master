@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="WeHeMo.Web.UI.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title></title>
+    <link href="content/semantic.min.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="ui center aligned container" style="margin-top: 10px;">
+        <div class="ui introduction">
+            <h2 class="ui center aligned icon header red">
+                <i class="send icon"></i>
+                WeHeMo
+            </h2>
+
+
+        </div>
+    </div>
+    
+    <div class="ui container" style="margin-top: 20px">
+        <div class="ui   four blue item inverted menu">
+            <a class="item " id="testgoruntule" href="default.aspx">Testleri Görüntüle</a>
+            <a class="item"  id="profie" href="profile.aspx">Profil</a>
+            <a class="item" id="testadd" href="testadd.aspx">Test Ekle</a>
+             <a class="item" id="logout" href="logout.aspx">Çıkış</a>
+        </div>
+        <div class="ui segment">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+         
+        </div>
+    
+        <script src="scripts/jquery-3.1.1.min.js"></script>  <!-- jquery referans drag and drop from solution exlorer -->
+        <script src="scripts/semantic.min.js"></script>      <!-- semantic ui refrans  drag and drop from solution explorer-->
+   
+
+</body>
+</html>

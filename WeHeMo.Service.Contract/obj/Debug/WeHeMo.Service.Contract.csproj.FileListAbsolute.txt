@@ -1,0 +1,7 @@
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\obj\Debug\WeHeMo.Service.Contract.csprojResolveAssemblyReference.cache
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\bin\Debug\WeHeMo.Service.Contract.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\bin\Debug\WeHeMo.Service.Contract.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\bin\Debug\WeHeMo.DTO.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\bin\Debug\WeHeMo.DTO.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\obj\Debug\WeHeMo.Service.Contract.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.Contract\obj\Debug\WeHeMo.Service.Contract.pdb

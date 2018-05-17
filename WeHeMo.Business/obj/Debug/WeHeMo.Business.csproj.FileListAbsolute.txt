@@ -1,0 +1,8 @@
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\bin\Debug\WeHeMo.Business.dll.config
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\bin\Debug\WeHeMo.Business.dll
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\bin\Debug\WeHeMo.Business.pdb
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\bin\Debug\WeHeMo.DTO.dll
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\bin\Debug\WeHeMo.DTO.pdb
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\obj\Debug\WeHeMo.Business.csprojResolveAssemblyReference.cache
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\obj\Debug\WeHeMo.Business.dll
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.Business\obj\Debug\WeHeMo.Business.pdb

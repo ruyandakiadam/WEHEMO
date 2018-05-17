@@ -1,0 +1,12 @@
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\obj\Debug\WeHeMo.Service.WCF.csprojResolveAssemblyReference.cache
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Service.WCF.dll.config
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Service.WCF.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Service.WCF.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Business.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.DTO.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Service.Contract.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Business.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.DTO.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\bin\WeHeMo.Service.Contract.pdb
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\obj\Debug\WeHeMo.Service.WCF.dll
+C:\Users\ht\Documents\Visual Studio 2015\Projects\WeHeMo\WeHeMo.Service.WCF\obj\Debug\WeHeMo.Service.WCF.pdb

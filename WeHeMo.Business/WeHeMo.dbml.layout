@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WeHeMo">
+  <DataContextMoniker Name="/WeHeMoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="448837d2-f891-4e0b-a553-fda43fd0ff85" absoluteBounds="0.75, 3.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/WeHeMoDataContext/CUSTOMER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3dad2ac5-d35e-4e73-9db4-2903f7de9e1a" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4adc66b4-99e8-436e-8940-275a5206e096" absoluteBounds="0.75, 1.25, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/WeHeMoDataContext/STATUS_CODE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f5c15041-60e0-4953-864c-8eec2307190b" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8a5376c6-8050-4e77-98fa-99c54eb660a8" absoluteBounds="3.5, 0.875, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/WeHeMoDataContext/TEST" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fdaf7573-9643-4657-b7e1-abcac8f2fd24" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="11091614-f7f3-4260-a4fc-cf724b4a4333" absoluteBounds="6.25, 1.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/WeHeMoDataContext/TEST_RESULT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1ee8569a-338e-451a-82af-373558496392" absoluteBounds="6.265, 1.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 4.85659912109375); (4.5 : 4.85659912109375); (4.5 : 2.8381982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WeHeMoDataContext/CUSTOMER/CUSTOMER_TEST" />
+      <nodes>
+        <classShapeMoniker Id="448837d2-f891-4e0b-a553-fda43fd0ff85" />
+        <classShapeMoniker Id="8a5376c6-8050-4e77-98fa-99c54eb660a8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.84699625651042); (3.16666666666667 : 1.84699625651042 : JumpStart); (3.33333333333333 : 1.84699625651042 : JumpEnd); (3.5 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WeHeMoDataContext/STATUS_CODE/STATUS_CODE_TEST" />
+      <nodes>
+        <classShapeMoniker Id="4adc66b4-99e8-436e-8940-275a5206e096" />
+        <classShapeMoniker Id="8a5376c6-8050-4e77-98fa-99c54eb660a8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.51724612825521); (3.25 : 1.51724612825521); (3.25 : 3.0881982421875); (4.41666666666667 : 3.0881982421875 : JumpStart); (4.58333333333333 : 3.0881982421875 : JumpEnd); (7.25 : 3.0881982421875); (7.25 : 2.70359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WeHeMoDataContext/STATUS_CODE/STATUS_CODE_TEST_RESULT" />
+      <nodes>
+        <classShapeMoniker Id="4adc66b4-99e8-436e-8940-275a5206e096" />
+        <classShapeMoniker Id="11091614-f7f3-4260-a4fc-cf724b4a4333" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.91429768880208); (6.25 : 1.91429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/WeHeMoDataContext/TEST/TEST_TEST_RESULT" />
+      <nodes>
+        <classShapeMoniker Id="8a5376c6-8050-4e77-98fa-99c54eb660a8" />
+        <classShapeMoniker Id="11091614-f7f3-4260-a4fc-cf724b4a4333" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

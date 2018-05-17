@@ -1,0 +1,4 @@
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.DTO\bin\Debug\WeHeMo.DTO.dll
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.DTO\bin\Debug\WeHeMo.DTO.pdb
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.DTO\obj\Debug\WeHeMo.DTO.dll
+C:\Users\ht\documents\visual studio 2015\Projects\WeHeMo\WeHeMo.DTO\obj\Debug\WeHeMo.DTO.pdb
