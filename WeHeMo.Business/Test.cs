@@ -107,17 +107,17 @@ namespace WeHeMo.Business
                     var error = dc.STATUS_CODEs.Where(c => c.Code == statuscode).Select(c => c.Description).First();
 
                     var client = new SmtpClient();
-                    client.Host = "srvm07.trwww.com";
+                    client.Host = "xxxxxxxx";
                     client.Port = 587;
                     client.EnableSsl = false;
-                    client.Credentials = new NetworkCredential("wehemo@exedra.com.tr", "W3hemomail"); //sunucuda username:password
+                    client.Credentials = new NetworkCredential("xxxxxxxxxxxxx", "xxxxxxxxxxx"); //sunucuda username:password
 
                     var message = new MailMessage();
                     message.Body = "Sayın Yetkili,<br>" + email.Url + " adresine sahip sayfada sorun tespit edilmiştir.<br>" + "Alınan Hata: <span style:color:red>" + error + "</span><br>WEHEME Team";
                     message.IsBodyHtml = true;
                     message.Subject = "WEHEMO Notification";
-                    message.From = new MailAddress("wehemo@exedra.com.tr");
-                    message.To.Add("talipturkmentr@gmail.com.tr");
+                    message.From = new MailAddress("xxxxxxxxxx");
+                    message.To.Add("xxxxxxxxxxxxxx");
                     client.Send(message);
                 }
                 if (successMail)
@@ -125,17 +125,17 @@ namespace WeHeMo.Business
                     var fark = DateTime.Now.Subtract(time1).TotalHours;
                     var email = dc.TESTs.Where(c => c.Id == testid).Select(c => new { c.Url, c.CUSTOMER.Email }).First();
                     var client = new SmtpClient();
-                    client.Host = "srvm07.trwww.com";
-                    client.Port = 587;
+                    client.Host = "xxxxxxxxxxxx.com";
+                    client.Port = "xxxxxxx";
                     client.EnableSsl = false;
-                    client.Credentials = new NetworkCredential("wehemo@exedra.com.tr", "W3hemomail");
+                    client.Credentials = new NetworkCredential("xxxxxxx", "xxxxxxxxxx");
 
                     var message = new MailMessage();
                     message.Body = "Sayın Yetkili,<br>" + fark + "saattir erişilemeyen " + email.Url + " adresinize erişim sağlanmıştır.<br>WEHEME Team";
                     message.IsBodyHtml = true;
                     message.Subject = "WEHEMO Notification";
-                    message.From = new MailAddress("wehemo@exedra.com.tr"); //Kimden
-                    message.To.Add("talipturkmentr@gmail.com.tr");    //Kime "email.email"
+                    message.From = new MailAddress("xxxxxxxxxxx"); //Kimden
+                    message.To.Add("xxxxxxxxxxxxxx");    //Kime "email.email"
                     client.Send(message);
 
                 }
